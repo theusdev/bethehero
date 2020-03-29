@@ -1,4 +1,4 @@
-# Semana OmniStack11
+# :rocket: Semana OmniStack11
 
 <p align="center">
   <img width="1000" src="https://github.com/theusdev/bethehero/blob/master/screenshot/modeloWeb.gif">
