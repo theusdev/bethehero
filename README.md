@@ -23,8 +23,8 @@ _Backend:_ ``` NodeJs ```<br>
 _Frontend:_ ``` ReactJs ```<br>
 _Mobile:_ ``` ReactNative & Expo```<br>
 _Deploy:_ a implantação foi realizada usando dois serviços, um serviço para implantar o back-end e outro para implantar o front-end.
-<p>Eu usei o Heroku para implantar o back-end devido a um bom plano gratuito para aplicativos pequenos como este. </p>
-<p>Para o front-end, eu queria testar um serviço chamado Netlify devido à facilidade de usá-lo e ao plano gratuito que eles também oferecem.</p>
+Eu usei o Heroku para implantar o back-end devido a um bom plano gratuito para aplicativos pequenos como este. 
+Para o front-end, eu queria testar um serviço chamado Netlify devido à facilidade de usá-lo e ao plano gratuito que eles também oferecem.
 
 Todos os dados serão armazenados em banco __SQL__ relacional ( __SQLite__ ).
 
