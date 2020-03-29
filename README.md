@@ -22,7 +22,7 @@ Como sabemos, esta __stack__ é baseada em tecnologias vindas do __JavaScript__:
 _Backend:_ ``` NodeJs ```<br>
 _Frontend:_ ``` ReactJs ```<br>
 _Mobile:_ ``` ReactNative & Expo```<br>
-_Deploy:_ <p>a implantação foi realizada usando dois serviços, um serviço para implantar o back-end e outro para implantar o front-end.</p>
+_Deploy:_ a implantação foi realizada usando dois serviços, um serviço para implantar o back-end e outro para implantar o front-end.
 <p>Eu usei o Heroku para implantar o back-end devido a um bom plano gratuito para aplicativos pequenos como este. </p>
 <p>Para o front-end, eu queria testar um serviço chamado Netlify devido à facilidade de usá-lo e ao plano gratuito que eles também oferecem.</p>
 
