@@ -6,7 +6,7 @@ import './styles.css';
 
 import api from '../../services/api'
 
-import logoImg from '../../assets/logo.svg';
+import logoImg from '../../assets/logo.png';
 
 
 export default function NewIncident() {
@@ -45,13 +45,13 @@ export default function NewIncident() {
         <div className="new-incident-container">
         <div className="content">
             <section>
-                <img src={logoImg} alt="Be The Hero"/>
+                <img src={logoImg} alt="Salve Vidas"/> 
 
                 <h1>Cadastrar novo caso</h1>
                 <p>Descreva o caso detalhadamente para encontrar um herói para resolver isso.</p>
 
                 <Link className="back-link" to="/profile">
-                     <FiArrowLeft size={16} color="#E02041" />
+                     <FiArrowLeft size={16} color="#f05a1a" />
                       Voltar para Home
                       </Link>
             </section>

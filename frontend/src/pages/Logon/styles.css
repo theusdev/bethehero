@@ -1,6 +1,6 @@
 .logon-container {
     width: 100%;
-    max-width: 1120px;
+    max-width: 1200px;
     height: 100vh;
     margin: 0 auto;
 
@@ -21,6 +21,11 @@
 
 .logon-container section.form form h1 {
     font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.logon-container section.form form p {
+    font-size: 15px;
     margin-bottom: 32px;
 }
 

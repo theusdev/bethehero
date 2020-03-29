@@ -6,8 +6,8 @@ import api from '../../services/api';
 
 import './styles.css';
 
-import logoImg from '../../assets/logo.svg';
-import heroesImg from '../../assets/heroes.png';
+import logoImg from '../../assets/logo.png';
+import heroesImg from '../../assets/heroes2.png';
 
 export default function Logon() {
     const [id, setId] = useState('');
@@ -31,28 +31,29 @@ export default function Logon() {
     return (
         <div className="logon-container">
            <section className="form">
-             <img src={logoImg} alt="Be The Hero"/>  
+             <img src={logoImg} alt="Salve vidas"/>  
 
              <form onSubmit={handleLogin}>
-                 <h1>Faça seu Logon</h1>
+                <h1>Faça seu Login</h1>
+                <p>Relate casos de Animais que precisam de ajuda, e nós uniremos a sua ONG a pessoas dispostas a ajudar essas vidas. </p>
+                
+                <input placeholder="Sua ID"
+                value={id}
+                onChange={e => setId(e.target.value)}
+                />
 
-                 <input placeholder="Sua ID"
-                 value={id}
-                 onChange={e => setId(e.target.value)}
-                 />
+                <button className="button" type="submit">Entrar</button>
 
-                 <button className="button" type="submit">Entrar</button>
-
-                 <Link className="back-link" to="/register">
-                     <FiLogIn size={16} color="#E02041" />
-                      Não tenho cadastro
-                      </Link>
+                <Link className="back-link" to="/register">
+                    <FiLogIn size={16} color="#f05a1a" />
+                    Não tenho cadastro
+                    </Link>
 
 
              </form>
             </section> 
 
-            <img src={heroesImg} alt="Heroes"/>
+            <img className="imgLogon" src={heroesImg} alt="Heroes"/>
         </div>
 
     );
