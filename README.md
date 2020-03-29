@@ -3,10 +3,11 @@
 <p align="center">
   <img width="1000" src="https://github.com/theusdev/bethehero/blob/master/screenshot/modeloWeb.gif">
 </p>
-<p align="center>
-    <img width="1000" src="https://github.com/theusdev/bethehero/blob/master/screenshot/modeloApp.jpg">
-    </p>
-> Aplicação que liga pessoas com vontade de ajudar __financeiramente__ organizações não governamentais (ONGs) <br>
+<p align="center">
+  <img width="1000" src="https://github.com/theusdev/bethehero/blob/master/screenshot/modeloApp.jpg">
+</p>
+                                                                                                      
+<br> Aplicação que liga pessoas com vontade de ajudar __financeiramente__ organizações não governamentais (ONGs) <br>
 
 # 🔥 O Projeto
 <p align="justify">
