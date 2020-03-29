@@ -1,12 +1,14 @@
 # Semana OmniStack11
 
 <p align="center">
-  <img width="1000" src="https://raw.githubusercontent.com/kelvinwelter/Be-The-Hero/master/screenshots/web.gif">
+  <img width="1000" src="https://github.com/theusdev/bethehero/blob/master/screenshot/modeloWeb.gif">
 </p>
-
+<p align="center>
+    <img width="1000" src="https://github.com/theusdev/bethehero/blob/master/screenshot/modeloApp.jpg">
+    </p>
 > Aplicação que liga pessoas com vontade de ajudar __financeiramente__ organizações não governamentais (ONGs) <br>
 
-🔥 O Projeto
+# 🔥 O Projeto
 <p align="justify">
   Como existem ONGs com baixa visibilidade, a <a href="https://github.com/Rocketseat">Rocketseat</a> propoem
 uma ideia social para esta versão da OmniStack11 que é tornar cada vez mais acessivel o conhecimento
@@ -15,7 +17,7 @@ pessoas comuns e as necessidades de cada ONG.
 </p>
 <hr>
 
-#### Tecnologias
+# :computer: Tecnologias
 
 Como sabemos, esta __stack__ é baseada em tecnologias vindas do __JavaScript__:
 
@@ -26,5 +28,5 @@ _Deploy:_ a implantação foi realizada usando dois serviços, um serviço para 
 Eu usei o Heroku para implantar o back-end devido a um bom plano gratuito para aplicativos pequenos como este. 
 Para o front-end, eu queria testar um serviço chamado Netlify devido à facilidade de usá-lo e ao plano gratuito que eles também oferecem.
 
-Todos os dados serão armazenados em banco __SQL__ relacional ( __SQLite__ ).
+Todos os dados forão armazenados em banco __SQL__ relacional ( __SQLite__ ).
 
