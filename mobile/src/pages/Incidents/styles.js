@@ -59,7 +59,7 @@ export default StyleSheet.create({
     alignItems: 'center'
   },
   detailsButtonText: {
-    color: '#e02041',
+    color: '#f05a1a',
     fontSize: 15,
     fontWeight: 'bold'
   },
