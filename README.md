@@ -8,6 +8,10 @@
 </p>
                                                                                                       
 <br> Aplicação que liga pessoas com vontade de ajudar __financeiramente__ organizações não governamentais (ONGs) <br>
+<p align="center">
+  Fiz o projeto e depois resolvi mudar o layout inteiro ficou assim:
+  <img width="1000" src="https://github.com/theusdev/bethehero/blob/master/screenshot/modeloWebProprio.jpg">
+  </p>
 
 # 🔥 O Projeto
 <p align="justify">
